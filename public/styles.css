@@ -1,0 +1,27 @@
+html {
+    background-color: #5b9aa0;
+}
+
+.rounded-corners {
+    width: 100px;
+}
+  
+.rounded-corners {
+    border-radius: 6px;
+}
+  
+.headerapp {
+    text-align: center;
+    margin: 15px 260px 0px 260px;
+    padding: 1em 0px 1em 0px;
+    border-radius: 6px;
+    background-color: #deeaee;  
+    border: solid #b8a9c9 5px;
+}
+  
+.h1-header {
+    font-family: impact;
+    color: #622569;
+    font-size: 3em;
+    font-weight: 900;
+}
